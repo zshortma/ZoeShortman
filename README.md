@@ -19,5 +19,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Certifications
+![terraform-associate-badge](./hashicorp-certified-terraform-associate-004.png)
 ![microsoft-certified-fundamentals-badge](https://github.com/zshortma/ZoeShortman/assets/147352710/9203c392-4713-41e2-9eb3-b1259a239f41)
 
